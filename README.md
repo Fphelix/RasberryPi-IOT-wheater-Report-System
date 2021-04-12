@@ -5,7 +5,7 @@ In this project I used a BME280 temperature, pressure and humidity sensor to tur
 I accessed those data remotely and  transfered them into an excel spreadsheet. This can be used to predict the weather. 
 
 Set up 
-- [[images/myimage1.jpg]]
-- [[images/myimage1.jpg]]
+- <img src="images/myimage1.jpg">
+- <img src="images/myimage2.jpg">
 
 
